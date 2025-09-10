@@ -1,7 +1,7 @@
 # SMART_Phore
 
 한줄 요약: SeMi-Aquatic spRingTail의 colloPHORE를 모방해 점프 후 착지 안정성을 높인 로봇
-![Cat]([https://placekitten.com/300/200](https://images.squarespace-cdn.com/content/v1/60ef472cab12c51e777931f3/3b9620cd-c451-4afb-86ac-965fe4f7c6fb/springtail.jpeg))
+![Cat](https://placekitten.com/300/200](https://images.squarespace-cdn.com/content/v1/60ef472cab12c51e777931f3/3b9620cd-c451-4afb-86ac-965fe4f7c6fb/springtail.jpeg)
 본 프로젝트는 KAIST 융합인재학부 ‘기술을 통한 사회적 혁신실험(|) <디자인>’ 수업의 일환으로 시작되었으며, 자연 생명체의 생존 전략을 응용한 생체모방 로봇을 통해 사람들에게 실질적인 도움을 줄 수 있는 기술 개발을 목표로 한다. 우리는 점프 후 자세를 제어하고 안정적으로 착지하는 능력을 가진 톡토기(springtail)의 생태적 전략에 주목하였다.
 
 톡토기는 배 쪽에 위치한 furcula(도약기)를 이용해 몸길이의 수십 배를 도약할 수 있으며, 특히 semi-aquatic(반수생) 톡토기는 점프 후 collophore에 물방울을 붙여 무게중심을 낮추고, 착지 시 수면에 부착함으로써 재튕김 없이 안정적인 착지를 가능하게 한다. 본 프로젝트는 이러한 메커니즘에서 영감을 받아 착지 안정성을 높이는 collophore 구조를 모방하고자 하며, 특히 무반동 망치 원리를 적용한 착지부 설계를 통해 육상에서도 유사한 효과를 구현하려 한다.
