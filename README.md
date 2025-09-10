@@ -8,7 +8,7 @@
 
 톡토기는 배 쪽에 위치한 furcula(도약기)를 이용해 몸길이의 수십 배를 도약할 수 있으며, 특히 semi-aquatic(반수생) 톡토기는 점프 후 collophore에 물방울을 붙여 무게중심을 낮추고, 착지 시 수면에 부착함으로써 재튕김 없이 안정적인 착지를 가능하게 한다. 본 프로젝트는 이러한 메커니즘에서 영감을 받아 착지 안정성을 높이는 collophore 구조를 모방하고자 하며, 특히 무반동 망치 원리를 적용한 착지부 설계를 통해 육상에서도 유사한 효과를 구현하려 한다.
 
-![LaMSA](https://www.researchgate.net/publication/391775563/figure/fig4/AS:11431281441396197@1747363840281/Biological-jumpers-and-bioinspired-latch-mediated-spring-actuation-a-Schematics-of-a.png)
+![LaMSA](https://www.researchgate.net/publication/362365852/figure/fig1/AS:11431281083407877@1662572583848/Schematic-description-of-the-LaMSA-Template-Model-with-a-loading-motor-spring-latch.ppm)
 
 로봇의 점프 동작은 LaMSA(Latch-Mediated Spring Actuation) 메커니즘을 기반으로 하며, SMA 코일을 이용해 에너지를 축적하고 순간적으로 방출하는 방식으로 구현된다. 공중에서의 자세 제어를 위해 무게중심을 낮추는 구조적 배치와 U자 자세 포징(U-shaped posing)을 병행하고, 착지 시 collophore 모방 구조를 통해 지면과의 접착력을 확보한다.
 
