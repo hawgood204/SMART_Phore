@@ -331,7 +331,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c99e7776fc519e348b4729fd6ac5b8d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FollowTarget
-  target: {fileID: 2994046116058342253}
+  target: {fileID: 7531545437469369194}
   offset: {x: -1, y: 0.1, z: 1}
 --- !u!1 &404662139
 GameObject:
