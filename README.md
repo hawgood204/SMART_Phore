@@ -1,6 +1,7 @@
 # SMART_Phore
 
 한줄 요약: SeMi-Aquatic spRingTail의 colloPHORE를 모방해 점프 후 착지 안정성을 높인 로봇
+[unity](https://hawgood204.github.io/SMART_Phore/index.html)
 
 본 프로젝트는 KAIST 융합인재학부 ‘기술을 통한 사회적 혁신실험(|) <디자인>’ 수업의 일환으로 시작되었으며, 자연 생명체의 생존 전략을 응용한 생체모방 로봇을 통해 사람들에게 실질적인 도움을 줄 수 있는 기술 개발을 목표로 한다. 우리는 점프 후 자세를 제어하고 안정적으로 착지하는 능력을 가진 톡토기(springtail)의 생태적 전략에 주목하였다.
 
